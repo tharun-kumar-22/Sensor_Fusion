@@ -4,10 +4,25 @@ This repo contains implementations of Kalman Filter and Particle Filter for a ba
 
 ## Files:
 
-1. `Task_P2.1(Kalman Filter).ipynb` - Implementation of the Kalman filter for the ball throwing use case in Jupyter Notebook format.
-2. `Task_P2.2(Particle Filter).ipynb` - Implementation of the Particle filter for the ball throwing use case in Jupyter Notebook format.
-3. `Task_P2.1(Kalman Filter).html` - Implementation of the Kalman filter for the ball throwing use case in HTML format.
-4. `Task_P2.2(Particle Filter).html` - Implementation of the Particle filter for the ball throwing use case in HTML format.
+1. `Task_P2.1(Kalman Filter).ipynb` - Source code implementation of the Kalman filter for the ball throwing use case in Jupyter Notebook format. 
+2. `Task_P2.2(Particle Filter).ipynb` - Source code implementation of the Particle filter for the ball throwing use case in Jupyter Notebook format.
+3. `Task_P2.1(Kalman Filter).html` - Source code implementation of the Kalman filter for the ball throwing use case in HTML format.
+4. `Task_P2.2(Particle Filter).html` - Source code implementation of the Particle filter for the ball throwing use case in HTML format.
+
+Download the ipynb files and run the code using jupyter notebook or visual studio or google colab.
+
+## Prerequisites
+1. Python should be installed in your system.
+2. The following Python libraries should be installed:
+   - Numpy
+   - Matplotlib
+   - Seaborn
+   - Plotly
+   - Scipy
+   - FilterPy
+
+You can install these libraries using pip(if not available): !pip install numpy matplotlib seaborn plotly scipy filterpy 
+
 
 ## Kalman Filter Implementation:
 
